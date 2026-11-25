@@ -1,0 +1,1 @@
+{"description":"One-line roast of a smart fridge for the make.fun bounty Fridge Roast: One Line, Biggest Laugh.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
